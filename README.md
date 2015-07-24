@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wiki/jp7internet/rails-apz/images/rails-apz.png" width="256">
+<img src="https://raw.githubusercontent.com/wiki/jp7internet/rails-apz/images/rails-apz.png" width="128">
 
 # Rails Apz
 
