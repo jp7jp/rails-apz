@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/wiki/jp7internet/rails-apz/images/rails-apz.png" width="256">
+
 # Rails Apz
 
 #### The guide to build a Rails app from a to z.
